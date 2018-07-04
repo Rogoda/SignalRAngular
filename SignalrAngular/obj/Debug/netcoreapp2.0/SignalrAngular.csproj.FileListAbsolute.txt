@@ -1,0 +1,11 @@
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\obj\Debug\netcoreapp2.0\SignalrAngular.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\obj\Debug\netcoreapp2.0\SignalrAngular.AssemblyInfoInputs.cache
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\obj\Debug\netcoreapp2.0\SignalrAngular.AssemblyInfo.cs
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\obj\Debug\netcoreapp2.0\SignalrAngular.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\bin\Debug\netcoreapp2.0\SignalrAngular.deps.json
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\bin\Debug\netcoreapp2.0\SignalrAngular.runtimeconfig.json
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\bin\Debug\netcoreapp2.0\SignalrAngular.runtimeconfig.dev.json
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\bin\Debug\netcoreapp2.0\SignalrAngular.dll
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\bin\Debug\netcoreapp2.0\SignalrAngular.pdb
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\obj\Debug\netcoreapp2.0\SignalrAngular.dll
+C:\Users\Rafał\Desktop\SignalR\myNew2\SignalrAngular\obj\Debug\netcoreapp2.0\SignalrAngular.pdb
